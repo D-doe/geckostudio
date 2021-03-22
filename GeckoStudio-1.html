@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="view name="viewpoint" content="width=device-width, initial scale=1.0">
+  <link rel="stylesheet" type="text/css" href="css/WelcomePage.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <title>Gecko.Studio</title>
+</head>
+
+<body>
+<!--Loading Page-->
+<div class="Loading-Container">
+    <div class="loader"> THE GECKO</div>
+</div>
+<!--導覽列-->
+  <nav>
+    <div class="logo">
+    THE GECKO<a href="#" class="underline">
+	</div>
+    <ul>
+	  <li>
+	  <a href="#" class="underline">HOME</a>
+	  </li>
+	  <li>
+	  <a href="#works" class="underline">WORKS</a>
+	  </li>
+	  <li>
+	  <a href="#profile" class="underline">PROFILE</a>
+	  </li>
+	  <a class="cta" href="#"><button class="nav-button">CONTACT</a>
+	</ul>
+  </nav>
+  <!--主要內容-->
+  <main>
+    <div class="welcomepage" >
+	  <div class="welcomepage-words">
+	    <div class="logo-2">
+    THE GECKO
+	    </div>
+		<div class="welcomepage-Collection">
+	    Collection For <br>
+		Every Inspiring <br>
+		Idea And Works
+		</div>
+		<div class="welcomepage-Pro">
+		Profolio of Product Design and<br> 
+		User Interface Design
+		</div>
+	  </div>
+	  <div class="welcomepage-pic">
+	     <img src="img/Main_Pic_2.svg" class="img-background-main">
+      </div>
+	</div>
+	<div class="works" id="works" >
+	  <div class="works-slider">
+	    <img src="img/Main_Pic_3.svg" class="img-background-works">
+	  </div>
+	  <div class="works-button">
+	   <a class="work-1" href="Garmin.html"><button href="Garmin.html" class="work-button-1">Garmin</a>
+	   <a class="work-2" href="Kid-chen.html"><button href="Kid-chen.html" button class="work-button-2">Kid-chen</a>
+	   <a class="work-3" href="MumBack.html"><button href="MumBack.html" class="work-button-3">MumBack</a>
+	   <a class="work-4" href="T-exApp.html"><button href="T-exApp.html" class="work-button-4">T-ex APP</a>
+	   <a class="work-5" href="Profile-Website.html"><button href="Profile-Website.html" class="work-button-5">Gecko</a>
+      </div>
+	</div>
+	<div class="profile" id="profile">
+	  <div class="profile-words">
+	  
+	  <div class="profile-title">
+	  De-Yen, Lee.<br> 
+	  </div>
+	    
+		<div class="profile-nar">
+		A Product Designer and UI Designer.
+	  </div>
+	  <div class="profile-pic">
+	    <img src="img/Main_Pic_3.svg" class="img-background-3">
+	  </div>
+	  <div class= CV>
+	  <a class="CV" href="#"><button class="CV-button">Check My CV</a>
+	  </div>
+	  </div>
+  </main>
+  
+  <!--Loading Script-->
+  <script>
+
+  $(window).on("load",function(){
+	  $("div.Loading-Container").fadeOut(2000);
+  });
+  
+</script>
+
+  <!--尾頁-->
+  <footer>
+  mail
+  </footer>
+</body>
+</html>
