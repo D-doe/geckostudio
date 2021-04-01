@@ -82,7 +82,7 @@ div.nar{
 	justify-content:left;
 	align-items:center;
 	width:100%;
-	height:30vh;
+	height:216.6px;
 	margin-top:5rem;
 }
 
@@ -125,7 +125,7 @@ div.product-img{
 	align-items:center;
 	border:0 solid red ;
 	width:100%;
-	height:80vh;
+	height:577.6px;
 	background-color:#000000;
 	
 }
@@ -142,7 +142,7 @@ img.Garmin-1{
 	flex-direction:column;
 	position:relative;
 	width:100%;
-	height:8vh;
+	height:57.76px;
 	border:0px solid red;
 	margin-top:5rem;
 }
@@ -171,7 +171,7 @@ div.small-word{
 	position:relative;
 	border:0px solid red;
 	width:100%;
-	height:65vh;
+	height:469.3px;
 	margin:0rem 0rem;
 	justify-content:space-between;
 	align-items:center;
@@ -181,7 +181,7 @@ div.small-word{
 .box1{
 	
 	position:relative;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -193,7 +193,7 @@ div.small-word{
 }
 
 .box1-img{
-	height:50vh;
+	height: 361px;
 }
 
 .box1-img img{
@@ -215,7 +215,7 @@ div.small-word{
 
 .box1:hover{
 	position:relative;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -231,7 +231,7 @@ div.small-word{
 .box2{
 	
 	position:relative;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -243,7 +243,7 @@ div.small-word{
 }
 
 .box2-img{
-	height:50vh;
+	height: 361px;
 }
 
 .box2-img img{
@@ -265,7 +265,7 @@ div.small-word{
 
 .box2:hover{
 	display:block;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
 	border-radius:15px;
@@ -279,7 +279,7 @@ div.small-word{
 .box3{
 	
 	position:relative;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -291,7 +291,7 @@ div.small-word{
 }
 
 .box3-img{
-	height:50vh;
+	height:361px;
 }
 
 .box3-img img{
@@ -313,7 +313,7 @@ div.small-word{
 
 .box3{
 	display:block;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -326,7 +326,7 @@ div.small-word{
 
 .box3:hover{
 	display:block;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
 	border-radius:15px;
@@ -340,7 +340,7 @@ div.small-word{
 .box4{
 	
 	position:relative;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -352,7 +352,7 @@ div.small-word{
 }
 
 .box4-img{
-	height:50vh;
+	height:361px;
 }
 
 .box4-img img{
@@ -374,7 +374,7 @@ div.small-word{
 
 .box4{
 	display:block;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -387,7 +387,7 @@ div.small-word{
 
 .box4:hover{
 	display:block;
-	height:60vh;
+	height:433.2px;
 	width:24%;
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
 	border-radius:15px;
@@ -402,7 +402,7 @@ div.small-word{
 	position:relative;
 	border:0px solid red;
 	width:100%;
-	height:65vh;
+	height:469.3px;
 	margin:0rem 0rem;
 	justify-content:space-between;
 	align-items:center;
@@ -415,7 +415,7 @@ div.small-word{
 .box5{
 	
 	position:relative;
-	height:60vh;
+	height:433.2px;
 	width:49%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -427,7 +427,7 @@ div.small-word{
 }
 
 .box5-img{
-	height:50vh;
+	height:361px;
 }
 
 .box5-img img{
@@ -449,7 +449,7 @@ div.small-word{
 
 .box5:hover{
 	display:block;
-	height:60vh;
+	height:433.2px;
 	width:49%;
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
 	border-radius:15px;
@@ -464,7 +464,7 @@ div.small-word{
 .box6{
 	
 	position:relative;
-	height:60vh;
+	height:433.2px;
 	width:49%;
 	border:0.5px rgba(0,136,169,0.5);
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
@@ -476,7 +476,7 @@ div.small-word{
 }
 
 .box6-img{
-	height:50vh;
+	height:361px;
 }
 
 .box6-img img{
@@ -498,7 +498,7 @@ div.small-word{
 
 .box6:hover{
 	display:block;
-	height:60vh;
+	height:433.2px;
 	width:49%;
 	box-shadow:2px 2px 2px 2px rgba(0,0,0,0.1);
 	border-radius:15px;
@@ -535,7 +535,7 @@ box-sizing:border-box;
 .section{
 	
 	width:100%;
-	height:100vh;
+	height:722px;
 	display:flex;
 	justify-content:center;
 	align-items:center;
@@ -572,7 +572,7 @@ div.small-word{
 .USE-img{
 	border:0px solid orange;
 	width:100%;
-	height:80vh;
+	height:577.6px;
 	background-color:#000000;
 	object-fit:contain;
 	margin-top:1.5rem;
@@ -586,7 +586,7 @@ div.small-word{
 
 footer{
 	width:80rem;
-    height:30vh;
+    height:216.6px;
 	margin:3rem auto;
 	border-top:1px solid #e3e3e3;
 	padding-top:1rem;
